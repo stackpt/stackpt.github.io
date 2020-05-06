@@ -9,8 +9,12 @@
   margin: 50px auto;
 }
 
+body {
+  background-color:aliceblue;
+}
 p {
   display: block;
+  text-align: center;
   width: 400px;
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
@@ -18,6 +22,7 @@ p {
 
 h1 {
   display: block;
+  text-align: center;
   width: 400px;
   margin: 50px auto;
   font: 32px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
